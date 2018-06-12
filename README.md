@@ -1,4 +1,4 @@
-### INF6953I - Data Mining - Summer 2018
+# INF6953I - Data Mining - Summer 2018
 
 Various assignments and exercises I did for the Data Mining class at Polytechnique Montreal during the Summer 2018 semester.
 
